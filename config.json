@@ -1,0 +1,8 @@
+{
+  "channel_handle": "dactvnet",
+  "channel_id": "",
+  "group_title": "DACTVNET",
+  "server_base_url": "https://SUNUCU-ADRESINIZ.example.com",
+  "playlist_file": "playlist.m3u",
+  "videos_file": "videos.json"
+}
